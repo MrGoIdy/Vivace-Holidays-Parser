@@ -1,0 +1,10 @@
+D:\Projects\Work\VivaceHolidaysParser\VivaceHolidaysParser\bin\Debug\VivaceHolidaysParser.exe.config
+D:\Projects\Work\VivaceHolidaysParser\VivaceHolidaysParser\bin\Debug\VivaceHolidaysParser.exe
+D:\Projects\Work\VivaceHolidaysParser\VivaceHolidaysParser\bin\Debug\VivaceHolidaysParser.pdb
+D:\Projects\Work\VivaceHolidaysParser\VivaceHolidaysParser\bin\Debug\HtmlAgilityPack.dll
+D:\Projects\Work\VivaceHolidaysParser\VivaceHolidaysParser\bin\Debug\MySql.Data.dll
+D:\Projects\Work\VivaceHolidaysParser\VivaceHolidaysParser\bin\Debug\HtmlAgilityPack.pdb
+D:\Projects\Work\VivaceHolidaysParser\VivaceHolidaysParser\bin\Debug\HtmlAgilityPack.xml
+D:\Projects\Work\VivaceHolidaysParser\VivaceHolidaysParser\obj\Debug\VivaceHolidaysParser.csprojResolveAssemblyReference.cache
+D:\Projects\Work\VivaceHolidaysParser\VivaceHolidaysParser\obj\Debug\VivaceHolidaysParser.exe
+D:\Projects\Work\VivaceHolidaysParser\VivaceHolidaysParser\obj\Debug\VivaceHolidaysParser.pdb
